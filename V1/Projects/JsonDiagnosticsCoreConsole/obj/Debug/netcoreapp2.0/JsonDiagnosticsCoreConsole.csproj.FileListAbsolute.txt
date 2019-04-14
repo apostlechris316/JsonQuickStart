@@ -1,0 +1,16 @@
+C:\_git\Json\Json_Prod\Projects\JsonDiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.csproj.CoreCompileInputs.cache
+C:\_git\Json\Json_Prod\Projects\JsonDiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.AssemblyInfoInputs.cache
+C:\_git\Json\Json_Prod\Projects\JsonDiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.AssemblyInfo.cs
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.deps.json
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.runtimeconfig.json
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.runtimeconfig.dev.json
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.dll
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.pdb
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.csprojResolveAssemblyReference.cache
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.csproj.CoreCompileInputs.cache
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.AssemblyInfoInputs.cache
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.AssemblyInfo.cs
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.dll
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\JsonDiagnosticsCoreConsole.pdb
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\JsonQuickStart.dll
+C:\_git\JsonQuickStart\Json_Prod\Projects\JsonDiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\JsonQuickStart.pdb

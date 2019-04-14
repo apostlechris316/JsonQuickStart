@@ -1,0 +1,16 @@
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\bin\Debug\netcoreapp2.0\TestJsonQuickStart.deps.json
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\bin\Debug\netcoreapp2.0\TestJsonQuickStart.runtimeconfig.json
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\bin\Debug\netcoreapp2.0\TestJsonQuickStart.runtimeconfig.dev.json
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\bin\Debug\netcoreapp2.0\TestJsonQuickStart.dll
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\bin\Debug\netcoreapp2.0\TestJsonQuickStart.pdb
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\bin\Debug\netcoreapp2.0\JsonQuickStart.dll
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\bin\Debug\netcoreapp2.0\JsonQuickStart.pdb
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\obj\Debug\netcoreapp2.0\TestJsonQuickStart.csprojResolveAssemblyReference.cache
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\obj\Debug\netcoreapp2.0\TestJsonQuickStart.csproj.CoreCompileInputs.cache
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\obj\Debug\netcoreapp2.0\TestJsonQuickStart.AssemblyInfoInputs.cache
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\obj\Debug\netcoreapp2.0\TestJsonQuickStart.AssemblyInfo.cs
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\obj\Debug\netcoreapp2.0\TestJsonQuickStart.dll
+C:\_git\JsonQuickStart\Json_Prod\UnitTests\TestJsonQuickStart\obj\Debug\netcoreapp2.0\TestJsonQuickStart.pdb
