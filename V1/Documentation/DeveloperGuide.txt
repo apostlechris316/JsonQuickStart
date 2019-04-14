@@ -1,0 +1,20 @@
+# JsonQuickStart
+This library provides basic functionality to get you started working with JSON.
+
+LICENSE: Free to use provided details on fixes and/or extensions emailed to chris.williams@readwatchcreate.com
+
+References:
+
+Libraries: 
+
+* This project contains 3 C# projects:
+
+	1) JsonQuickStart 
+		- This is a .NET Standard library so able to be used in .NET Framework, .NET Core and Xamarin.
+		- This project contains the base classes and interfaces for manipulating JSON. 
+
+Obsolete libraries: 
+
+Version History:
+
+	v1.0.0.0 - This is the initial release of the library

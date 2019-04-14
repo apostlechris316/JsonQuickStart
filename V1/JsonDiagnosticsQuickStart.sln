@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonDiagnosticsCoreConsole", "Projects\JsonDiagnosticsCoreConsole\JsonDiagnosticsCoreConsole.csproj", "{61478406-A97B-426F-AA29-AA909CE3754E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{F2D81746-3A49-423B-A725-0D813CD0C086}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{106C43D6-B048-47D6-96D0-46E142A0DC4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonQuickStart", "Foundation\JsonQuickStart\JsonQuickStart.csproj", "{758E1070-6048-4C9C-80D6-93513118837F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{633724DA-44EE-418B-92AE-B0FB3367A500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61478406-A97B-426F-AA29-AA909CE3754E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61478406-A97B-426F-AA29-AA909CE3754E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61478406-A97B-426F-AA29-AA909CE3754E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61478406-A97B-426F-AA29-AA909CE3754E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758E1070-6048-4C9C-80D6-93513118837F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758E1070-6048-4C9C-80D6-93513118837F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758E1070-6048-4C9C-80D6-93513118837F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758E1070-6048-4C9C-80D6-93513118837F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{61478406-A97B-426F-AA29-AA909CE3754E} = {F2D81746-3A49-423B-A725-0D813CD0C086}
+		{758E1070-6048-4C9C-80D6-93513118837F} = {106C43D6-B048-47D6-96D0-46E142A0DC4D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E44CD7-8A16-4F98-8D26-8783808F0365}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>JsonQuickStart</id>
+    <version>1.0.0</version>
+    <authors>Chris WIlliams</authors>
+    <owners>Chris WIlliams</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This library provides a quickstart to work with JSON content</description>
+    <releaseNotes>Consider this a QuickStart that you can extend for your purposes.</releaseNotes>
+    <copyright>(c) 2001-2018 Read Watch Create</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\_git\JsonQuickStart\Json_Prod\Foundation\JsonQuickStart\bin\Debug\netstandard2.0\JsonQuickStart.dll" target="lib\netstandard2.0\JsonQuickStart.dll" />
+  </files>
+</package>

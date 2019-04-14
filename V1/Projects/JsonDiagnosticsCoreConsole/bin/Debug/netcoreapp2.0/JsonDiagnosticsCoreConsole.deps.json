@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "fea9b4cf13bf3162a2e2fbfe2bd4848b11537bda"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "JsonDiagnosticsCoreConsole/1.0.0": {
+        "dependencies": {
+          "DiagnosticsQuickStart.Business": "1.0.0",
+          "JsonQuickStart": "1.0.0"
+        },
+        "runtime": {
+          "JsonDiagnosticsCoreConsole.dll": {}
+        }
+      },
+      "DiagnosticsQuickStart.Business/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/DiagnosticsQuickStart.Business.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "JsonQuickStart/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "JsonQuickStart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JsonDiagnosticsCoreConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DiagnosticsQuickStart.Business/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qqFIrm5Wp22+88feS8KbnOFt2p7E76s6/mdowyBkNLciyVEkP2HYnx5P08O9L47iIj2H1Loz1GzT/7F39JKpHg==",
+      "path": "diagnosticsquickstart.business/1.0.0",
+      "hashPath": "diagnosticsquickstart.business.1.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "JsonQuickStart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

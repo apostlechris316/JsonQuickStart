@@ -1,0 +1,9 @@
+C:\_git\JsonQuickStart\Json_Prod\Foundation\JsonQuickStart\obj\Debug\netstandard2.0\JsonQuickStart.csprojResolveAssemblyReference.cache
+C:\_git\JsonQuickStart\Json_Prod\Foundation\JsonQuickStart\obj\Debug\netstandard2.0\JsonQuickStart.csproj.CoreCompileInputs.cache
+C:\_git\JsonQuickStart\Json_Prod\Foundation\JsonQuickStart\obj\Debug\netstandard2.0\JsonQuickStart.AssemblyInfoInputs.cache
+C:\_git\JsonQuickStart\Json_Prod\Foundation\JsonQuickStart\obj\Debug\netstandard2.0\JsonQuickStart.AssemblyInfo.cs
+C:\_git\JsonQuickStart\Json_Prod\Foundation\JsonQuickStart\bin\Debug\netstandard2.0\JsonQuickStart.deps.json
+C:\_git\JsonQuickStart\Json_Prod\Foundation\JsonQuickStart\bin\Debug\netstandard2.0\JsonQuickStart.dll
+C:\_git\JsonQuickStart\Json_Prod\Foundation\JsonQuickStart\bin\Debug\netstandard2.0\JsonQuickStart.pdb
+C:\_git\JsonQuickStart\Json_Prod\Foundation\JsonQuickStart\obj\Debug\netstandard2.0\JsonQuickStart.dll
+C:\_git\JsonQuickStart\Json_Prod\Foundation\JsonQuickStart\obj\Debug\netstandard2.0\JsonQuickStart.pdb
